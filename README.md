@@ -1,4 +1,4 @@
-# kaggle_house_prices_regression
+# kaggle-house-prices-regression
 A Python script for the prediction of House Prices using regression techniques.
 
 The competition can be found at: https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
